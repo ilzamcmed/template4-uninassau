@@ -1,2 +1,2 @@
-# template4-uninassau
+# Tabalho da disciplina Prática Profissional
 Trabalho de conclusão de curso da UNINASSAU, uma aplicação para gestão de pessoal com o objetivo de organizar as informações de funcionários.
